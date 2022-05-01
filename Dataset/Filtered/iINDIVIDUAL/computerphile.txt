@@ -1,0 +1,173 @@
+Running an SQL Injection Attack
+The Problem with Time & Timezones
+Hacking Websites with SQL Injection
+Why Electronic Voting is a BAD Idea
+Floating Point Numbers
+Why C is so Influential
+Running a Buffer Overflow Attack
+Characters, Symbols and the Unicode Miracle
+"C" Programming Language: Brian Kernighan
+Cracking Enigma in 2021
+Secrets of the Deep Dark Web (Deep Dark Web Pt2)
+The Attack That Could Disrupt The Whole Internet
+How TOR Works- Computerphile
+Wana Decrypt0r (Wanacry Ransomware)
+Cracking Websites with Cross Site Scripting
+Programming Loops vs Recursion
+The Most Difficult Program to Compute?
+Hashing Algorithms and Security
+Turing's Enigma Problem (Part 1)
+AI "Stop Button" Problem
+Secrets Hidden in Images (Steganography)
+Dijkstra's Algorithm
+How to Choose a Password
+Just How do Macs and PCs Differ?
+Cookie Stealing
+Python Sudoku Solver
+TOR Hidden Services
+Maze Solving
+SHA: Secure Hashing Algorithm
+Slow Loris Attack
+Internationalis(z)ing Code
+Man in the Middle Attacks & Superfish
+AES Explained (Advanced Encryption Standard)
+A* (A Star) Search Algorithm
+Why Did Facebook Go Down?
+Turing Machines Explained
+Lambda Calculus
+Deadly Truth of General AI?
+Where GREP Came From
+What if the Universe is a Computer Simulation?
+Why Asimov's Laws of Robotics Don't Work
+CPU vs GPU (What's the Difference?)
+How Computer Memory Works
+Punch Card Programming
+CNN: Convolutional Neural Networks Explained
+Turing & The Halting Problem
+Public Key Cryptography
+What's your Favourite Programming Language? (sound check Q)
+How Secure Shell Works (SSH)
+Secret Key Exchange (Diffie-Hellman)
+AI's Game Playing Challenge
+Game Physics (in Assembler)
+Cross Site Request Forgery
+End to End Encryption (E2EE)
+Deep Dream (Google)
+Why Use Binary?
+What on Earth is Recursion?
+Animated GIFs and Space vs Time
+Programming Paradigms
+Mac or PC?
+Where HTML beats C?
+Physics of Computer Chips
+The Problem with JPEG
+WiFi's Hidden ____ Problem
+Tackling Enigma (Turing's Enigma Problem Part 2)
+Functional Programming & Haskell
+JPEG DCT, Discrete Cosine Transform (JPEG Pt2)- Computerphile
+The Perfect Code
+Generative Adversarial Networks (GANs)
+P vs NP on TV
+The True Power of the Matrix (Transformations in Graphics)
+How YouTube Works
+The Great 202 Jailbreak
+Holy Grail of AI (Artificial Intelligence)
+Von Neumann Architecture
+How Blurs & Filters Work
+Mouse Pointers & Fitts's Law
+2FA: Two Factor Authentication
+What is a Monad?
+Recursion 'Super Power' (in Python)
+Web vs Internet (Deep Dark Web Pt1)
+Elegant Compression in Text (The LZ 77 Method)
+Heartbleed, Running the Code
+Have You Been Pwned?
+Elliptic Curve Back Door
+How Signal Instant Messaging Protocol Works (& WhatsApp etc)
+Log4J & JNDI Exploit: Why So Bad?
+Arrays vs Linked Lists
+A Universe of Triangles
+Where did Bytes Come From?
+PDF, What is it FOR?
+Resizing Images
+Elliptic Curves
+Stop Button Solution?
+Deep Learning
+Finding the Edges (Sobel Operator)
+Computing Limit
+How Bitcoin Works
+AI Self Improvement
+Compression
+What is Bootstrapping?
+Essentials: Pointer Power!
+Deep Learned Super-Sampling (DLSS)
+Diffie Hellman -the Mathematics bit- Computerphile
+Inside a Neural Network
+How DNS Works
+AND OR NOT - Logic Gates Explained
+One Encryption Standard to Rule Them All!
+TLS Handshake Explained
+General AI Won't Want You To Fix its Code
+Hill Climbing Algorithm & Artificial Intelligence
+MegaProcessor
+Entropy in Compression
+Fuzzy Logic
+How Gangnam Style Broke YouTube
+The Font Magicians
+The Golden Key: FBI vs Apple iPhone
+JPEG 'files' & Colour (JPEG Pt1)- Computerphile
+Binary: Plusses & Minuses (Why We Use Two's Complement)
+Laziness in Python
+Unicorn AI
+Cracking Windows by Atom Bombing
+Spectre & Meltdown
+Detecting Faces (Viola Jones Algorithm)
+Zero Size Files
+YouTube's Secret Algorithm
+The Kindle Text Problem
+Multithreading Code
+Transport Layer Security (TLS)
+Inside the CPU
+Quick Sort
+GPT3: An Even Bigger Language Model
+Blindly Accepting Terms and Conditions?
+Crypto-jacking
+Bitcoin Problems
+Busy Beaver Turing Machines
+AlphaGo & Deep Learning
+Real Life Holodeck with an Oculus Rift
+Raspberry Pi Zero - the $5 Computer
+Sega Game Coding in Assembly
+Computers Without Memory
+Canny Edge Detector
+How Intelligent is Artificial Intelligence?
+128 Bit or 256 Bit Encryption?
+Key Exchange Problems
+UNIX Special: Profs Kernighan & Brailsford
+Is it the End for Moore's Law?
+Why do CPUs Need Caches?
+AI & Logical Induction
+Quantum Computing 'Magic'
+Diceware & Passwords
+Getting Sorted & Big O Notation
+Home-Made Code
+Omnidirectional VR Treadmill
+Essentials: Functional Programming's Y Combinator
+Taming Kerberos
+Reverse Polish Notation and The Stack
+Silicon Brain: 1,000,000 ARM cores
+AI YouTube Comments
+Raspberry Pi Hardware
+K-means & Image Segmentation
+Coding Trees in Python
+The Blockchain & Bitcoin
+How Face ID Works... Probably
+Follow the Cookie Trail
+ARM Don't Make Computer Chips
+Securing Stream Ciphers (HMAC)
+Space Carving
+ARM Processor - Sowing the Seeds of Success
+Pong & Object Oriented Programming
+Data Analysis 0: Introduction to Data Analysis
+AI? Just Sandbox it...
+The Tweeting Vending Machine Hack

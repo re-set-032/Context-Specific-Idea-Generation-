@@ -1,0 +1,1681 @@
+Running an SQL Injection Attack
+The Problem with Time & Timezones
+Hacking Websites with SQL Injection
+Why Electronic Voting is a BAD Idea
+Floating Point Numbers
+Why C is so Influential
+Running a Buffer Overflow Attack
+Characters, Symbols and the Unicode Miracle
+"C" Programming Language: Brian Kernighan
+Cracking Enigma in 2021
+Secrets of the Deep Dark Web (Deep Dark Web Pt2)
+The Attack That Could Disrupt The Whole Internet
+How TOR Works- Computerphile
+Wana Decrypt0r (Wanacry Ransomware)
+Cracking Websites with Cross Site Scripting
+Programming Loops vs Recursion
+The Most Difficult Program to Compute?
+Hashing Algorithms and Security
+Turing's Enigma Problem (Part 1)
+AI "Stop Button" Problem
+Secrets Hidden in Images (Steganography)
+Dijkstra's Algorithm
+How to Choose a Password
+Just How do Macs and PCs Differ?
+Cookie Stealing
+Python Sudoku Solver
+TOR Hidden Services
+Maze Solving
+SHA: Secure Hashing Algorithm
+Slow Loris Attack
+Internationalis(z)ing Code
+Man in the Middle Attacks & Superfish
+AES Explained (Advanced Encryption Standard)
+A* (A Star) Search Algorithm
+Why Did Facebook Go Down?
+Turing Machines Explained
+Lambda Calculus
+Deadly Truth of General AI?
+Where GREP Came From
+What if the Universe is a Computer Simulation?
+Why Asimov's Laws of Robotics Don't Work
+CPU vs GPU (What's the Difference?)
+How Computer Memory Works
+Punch Card Programming
+CNN: Convolutional Neural Networks Explained
+Turing & The Halting Problem
+Public Key Cryptography
+What's your Favourite Programming Language? (sound check Q)
+How Secure Shell Works (SSH)
+Secret Key Exchange (Diffie-Hellman)
+AI's Game Playing Challenge
+Game Physics (in Assembler)
+Cross Site Request Forgery
+End to End Encryption (E2EE)
+Deep Dream (Google)
+Why Use Binary?
+What on Earth is Recursion?
+Animated GIFs and Space vs Time
+Programming Paradigms
+Mac or PC?
+Where HTML beats C?
+Physics of Computer Chips
+The Problem with JPEG
+WiFi's Hidden ____ Problem
+Tackling Enigma (Turing's Enigma Problem Part 2)
+Functional Programming & Haskell
+JPEG DCT, Discrete Cosine Transform (JPEG Pt2)- Computerphile
+The Perfect Code
+Generative Adversarial Networks (GANs)
+P vs NP on TV
+The True Power of the Matrix (Transformations in Graphics)
+How YouTube Works
+The Great 202 Jailbreak
+Holy Grail of AI (Artificial Intelligence)
+Von Neumann Architecture
+How Blurs & Filters Work
+Mouse Pointers & Fitts's Law
+2FA: Two Factor Authentication
+What is a Monad?
+Recursion 'Super Power' (in Python)
+Web vs Internet (Deep Dark Web Pt1)
+Elegant Compression in Text (The LZ 77 Method)
+Heartbleed, Running the Code
+Have You Been Pwned?
+Elliptic Curve Back Door
+How Signal Instant Messaging Protocol Works (& WhatsApp etc)
+Log4J & JNDI Exploit: Why So Bad?
+Arrays vs Linked Lists
+A Universe of Triangles
+Where did Bytes Come From?
+PDF, What is it FOR?
+Resizing Images
+Elliptic Curves
+Stop Button Solution?
+Deep Learning
+Finding the Edges (Sobel Operator)
+Computing Limit
+How Bitcoin Works
+AI Self Improvement
+Compression
+What is Bootstrapping?
+Essentials: Pointer Power!
+Deep Learned Super-Sampling (DLSS)
+Diffie Hellman -the Mathematics bit- Computerphile
+Inside a Neural Network
+How DNS Works
+AND OR NOT - Logic Gates Explained
+One Encryption Standard to Rule Them All!
+TLS Handshake Explained
+General AI Won't Want You To Fix its Code
+Hill Climbing Algorithm & Artificial Intelligence
+MegaProcessor
+Entropy in Compression
+Fuzzy Logic
+How Gangnam Style Broke YouTube
+The Font Magicians
+The Golden Key: FBI vs Apple iPhone
+JPEG 'files' & Colour (JPEG Pt1)- Computerphile
+Binary: Plusses & Minuses (Why We Use Two's Complement)
+Laziness in Python
+Unicorn AI
+Cracking Windows by Atom Bombing
+Spectre & Meltdown
+Detecting Faces (Viola Jones Algorithm)
+Zero Size Files
+YouTube's Secret Algorithm
+The Kindle Text Problem
+Multithreading Code
+Transport Layer Security (TLS)
+Inside the CPU
+Quick Sort
+GPT3: An Even Bigger Language Model
+Blindly Accepting Terms and Conditions?
+Crypto-jacking
+Bitcoin Problems
+Busy Beaver Turing Machines
+AlphaGo & Deep Learning
+Real Life Holodeck with an Oculus Rift
+Raspberry Pi Zero - the $5 Computer
+Sega Game Coding in Assembly
+Computers Without Memory
+Canny Edge Detector
+How Intelligent is Artificial Intelligence?
+128 Bit or 256 Bit Encryption?
+Key Exchange Problems
+UNIX Special: Profs Kernighan & Brailsford
+Is it the End for Moore's Law?
+Why do CPUs Need Caches?
+AI & Logical Induction
+Quantum Computing 'Magic'
+Diceware & Passwords
+Getting Sorted & Big O Notation
+Home-Made Code
+Omnidirectional VR Treadmill
+Essentials: Functional Programming's Y Combinator
+Taming Kerberos
+Reverse Polish Notation and The Stack
+Silicon Brain: 1,000,000 ARM cores
+AI YouTube Comments
+Raspberry Pi Hardware
+K-means & Image Segmentation
+Coding Trees in Python
+The Blockchain & Bitcoin
+How Face ID Works... Probably
+Follow the Cookie Trail
+ARM Don't Make Computer Chips
+Securing Stream Ciphers (HMAC)
+Space Carving
+ARM Processor - Sowing the Seeds of Success
+Pong & Object Oriented Programming
+Data Analysis 0: Introduction to Data Analysis
+AI? Just Sandbox it...
+The Tweeting Vending Machine HackThe Myth of Artificial Intelligence
+Artificial Intelligence, Cyberwarfare, and Military Preparedness
+NFTs  The Reinvention of Property
+The Nanotech Revolution
+The State of the Ether: A Discussion
+Quantum Computing: What Does it Change?
+Broadband Brawl on Network Neutrality
+Innovations in Biotech: Killing Disease and Living Longer
+Doom: The Politics of Catastrophe
+Knowledge vs Doom
+Survival of the Fittest or Survival of the Statist? Darwin's Real Legacy for Economics
+The New IC: From Nanoscale to Waferscale
+AI 2041:  Ten Visions for Our Future
+Is It the End for Silicon Valley?
+Not Showing at a Theater Near You
+Life After Capitalism
+Greed, Self-Interest, Altruism, and Free Enterprise
+Woke Capitalism: What's Going on?
+Gaming AI
+How the Changes in China Constitute a Strategic Threat to the U.S. and the World
+How China's Economy and Trade Policies with the U.S. Have Changed
+How the Culture and Politics of China have Fundamentally Changed
+Homelessness
+Mob Rule in Seattle
+Gale Pooley, Killing Thanos: Defeating the Ideology of Scarcity by Thinking in Time
+Can we make machines in our image?
+Why Machines Will Never Think
+Goods Movement and Alternative Fuels: Key Initiatives & Policy that Impact the West Coast Corridor
+Will the Machines Take Over? Human Uniqueness in the Age of Smart Machines
+How News Ideas on Trade & Money Can Revive the US Economy
+What is the Impact of Raising Taxes on the Wealthy?
+The War on Humans
+How do we Spur Innovation & Job Creation?
+Why Are You Hopeful for America?
+What is the Best Way to Care for the Poor?
+How Do Tax Rates Affect Revenue?
+What is Different About Capitalism?
+Is Capitalism Based on Greed
+What was Darwin's Doubt?
+Where Does Economic Growth Come From?
+Science & Human Origins: How accurate are current models used in population genetics?
+What are the implications of the book Science & Human Origins for the Darwinian paradigm
+Is There Enough Time For Humans to have Evolved from Apes?
+The Myth of Junk DNA
+What Lessons Have We Failed to Learn from 9/11: Senator Slade Gorton Discusses
+Journey Inside The Cell
+Explore Evolution
+Intelligent Design: Who Designed the Designer?
+Is antibiotic resistance evidence for Darwinian evolution?
+Every Inspirational Video
+Counting to 100 in French with a NYC Cabbie
+Basically A Tom Scott Video
+Basically Another Tom Scott Video
+Probably the best joke you'll hear today
+when you rearrange your room
+funniest joke you'll hear today about congestive heart failure
+Ranting About Metric vs Imperial with a NYC Cabbie
+the funniest joke you'll hear today about Einstein's theory of special relativity
+Are The Seashells She's Selling, Even Legal?
+Basically a Gus Johnson Video
+I Took Steph Curry's MasterClass
+how much wood SHOULD a woodchuck chuck?
+the first guy to drink coffee
+Buying a House at 25 in 1920 vs 2020
+honestly not a bad joke, not great, but definitely not bad
+You're A Homophone
+every news station during a natural disaster
+guy who doesn't know he's in a cult
+If You Had 1 Minute To Live...
+Every Self Help Video
+Did Peter Piper Actually Pick Those Pickled Peppers?
+Can You Even Tell The Difference Between Modern Art and My Art?
+Jogging
+The Guy Who Invented Balls
+when the commercial doesn't make sense
+seeing one of your dad's friends
+How NOT To Handle a Bear Encounter
+A Very Important Video for the End of the Decade
+I Made The Scripts My Subscribers Sent Me
+Country Artist Who Doesn't Have Country Lyrics
+Big Red Riding Hood
+what scares me most.
+YouTuber Answers the Web's Most Searched Questions | WIRED
+I Don't Like Cheese
+Stop Saying It's Not The End Of The Decade, It Is.
+about my great great grandfather.
+Whose Knife Is That?
+Pick A Number Between 1 and 100
+Businessball
+Basically An Emma Chamberlain Video
+Basic Sports Knowledge For Adults
+i've had a rough year - 250K Q&A
+golfing in Canada
+hey allan are you almost done in there
+Well-Dressed Yeti
+I Tried Learning How To Throw Cards
+"I Don't Know Any Songs"
+If Country Songs had Death Metal LyricsScreens are NOT the reason kids need glasses	
+The Freshwater Paradox	
+Why Do Humans Vomit So Much?
+Is Soil Alive?	
+Bitcoin mining is a lot like reindeer mating
+The Cheapest Way To Save A Life	
+Which is Worse?	
+Why The Weather Is Worse At The Mall	
+Why The Ocean Needs Salt	
+The Most Common Allergy In The World	
+Why The Shortest Day Of The Year Isn't The Coldest	
+The Plankton Paradox	
+How Birds Fooled Military Radar	
+Why Some Fruits Won’t Ripen On Your Counter	
+Hyena Butter: Everything You Did And Didn't Want To Know	
+The Rain Shadow Effect 	
+The Hurricane Category Scale Is Broken	
+How To Solve Every Global Crisis	
+The Place Where Time Flows Backwards	
+We're making hurricanes stronger 	
+Opossum vs Possum 	
+The Science of Hobbit Gluttony	
+Why Sharks Are Covered In Teeth	
+Grolar Bears 	
+Hyena Families 	
+How A Whale And A Bear Beat The System	
+How To Survive Poison	
+The World's Largest Nuclear Weapon (ft. Stephen Fry) 	
+Adult Cats Only Meow At Humans 	
+How Did Whales Get So Big? | Book Trailer	
+Why These Bears “Waste” Food	
+How Fevers REALLY Work	
+How Long Did People Use To Live?	
+1 year old puppy = 30 year old human 	
+We don't know what a tree is (and this video won't tell you)	
+Why It's Good To Have A Weak Hand	
+An Unexpected Consequence of COVID	
+The Lost Penis Enigma	
+Why We Faint (When Other Animals Don't)	
+How Do Some Waves Get SO Big?	
+The Ecology of Superheroes	
+The Hidden Side Of Proteins	
+Which Will Kill You First?	
+Why "Nothing" Matters in Science	
+The Problem With Life Expectancy	
+I found the BEST coronavirus depiction (+ explanation)	
+Dogs vs Cats: The Diversity Paradox	
+Four Reasons Our Brains Suck At Pandemics	
+How Firestorms Form	
+Why Most New Species Are Discovered By Amateurs	
+Does It Pay To Cheat?	
+The Plant That’s Full Of Metal	
+The Best Pokémon (According to Science)	
+Dangerous Marshmallows?!	
+The Science of Roadkill	
+Why Doesn't All Thunder Sound The Same?	
+Can Pregnancy Tests Help Beat COVID-19?	
+Why Hardwoods Are The Softest Woods	
+15 YouTubers Play The Telephone Game	
+How To Hear Halfway Around The World	
+Why You’re More Likely To Die In Winter	
+Why Does This Shrimp Cost More Than A Car?	
+Why Sewers Around the World Keep Overflowing	
+How To Go Extinct	
+Why People Hate Hyenas	
+Extreme Weather
+Will Gas Stations Survive?	
+Unintended Consequences
+*If We Aren't Too Late	
+YouTube Is Misleading You. Help Us Make It Better.	
+Animal Winners and Losers	
+The Best Worst Energy Source	
+Human Evolution	
+Is There A Better Way To Power Airplanes?	
+Poop	
+Why You Can't Build A Clone Army... (Yet)	
+Why Wolves Don't Chirp	
+Space	
+Why Do We STILL Use Lead Pipes?!	
+This Atom Can Predict The Future	
+Water	
+The Extinction Happening Inside You	
+Stuff That...Isn’t	
+Cats vs Dogs	
+Battle of the Sexes	
+Food	
+How to Work From Home as a Team	
+Size	
+How To Name A Disease (Like COVID-19)	
+Why Don't More Animals Eat Wood?	
+Where Does One Ocean End And Another Begin?	
+How This River Made Chimps Violent	
+The Fastest-Growing Plant In The World	
+How To Turn Poop Into Power	
+You Have More Bones Than You Think	
+Why It’s HARD To Bring A New Apple To Market	
+Nobody Really Knows What A Concussion Is	
+The Great Acceleration	
+Can AI Help Us Identify Animals?	
+Smartphones: A New Model for Energy Efficiency?	
+The Best Dragon (According to Science)	
+How Much Air Can A Tree Hold? #TeamTrees	
+Why Are Adults Bad At New Languages?	
+How The Modern World Tricks Our Bodies Into Hurting Themselves	
+Why Exercise Is Hard	
+The Secret Global Sewer System	
+How We Evolved To Browse The Web	
+Our Best View Of Bacteria Is...From Space?!	
+The Bacteria That Made Life Possible Are Now Killing Us	
+The Cruel Irony Of Air Conditioning	
+Why We Should Invest In Rat Massage	
+Monoclonal Antibodies | How to Turn Cancer Against Itself	
+This Country Has Something Everyone Else Wants	
+The Secrets of Extreme Breath Holding	
+Why Is Lyme Disease Getting Worse?	
+Why Can't We Get Power From Waves?	
+You Are A Fish	
+The Problem With Concrete	
+Why Earthquakes Are So Hard To Predict	
+Why Are Your Fingerprints Unique?	
+The Bird Poop That Changed The World	
+These Names Can Kill Animals	
+Why Are Fewer People Getting Appendicitis?	
+Why Do You Make So Many Poop Videos? (& Other Questions)	
+The Secret Weapon That Could Help Save Bees	
+Why Malaria Isn’t Just a Tropical Disease	
+Why Do Some Animals Eat Poop?	
+Why Are There Penguins At The Equator?	
+Why Earth Has Two Levels | Hypsometric Curve	
+The Similarity Trap	
+Rise Of The Mesopredator
+How Long Can We Live?	
+When Trees Go Nuts	
+Why You Shouldn't Give Ginger To Monkeys (and other animal sayings)	
+Milk Is Just Filtered Blood	
+Are Plastics Too Strong?	
+How Much Food Is There On Earth?	
+Introducing Our NEW SHOW: Paradigms	
+Is It Safe To Get Your DNA Tested?	
+Do You Need To Be Rich To Be Healthy? (ft. Bill Gates)	
+Why Electroshock Therapy Is Back	
+Why Our Favorite Crops Live Fast and Die Young	
+A Disease's Guide to World Domination	
+Why Do Birds Migrate Like This?	
+Are "Acts of God" Disappearing?	
+Why Pets Have Surprisingly Small Brains	
+Why Do Some Animals Get Gigantic?	
+What Are Brain Waves?	
+Why Bird Penises Are So Weird	
+Where Do Our Drugs Come From?	
+Why Do Female Hyenas Have Pseudo-Penises?!	
+Why Farming Is Broken (And Always Has Been)	
+Why Is Your Grandma So Short?	
+Why Do India And China Have So Many People?	
+Why Is Syrup Sticky?	
+Our Definition For “Moon” Is Broken
+UPSIDE-DOWN Rivers On Mars?!
+TRANSPARENT Solar Panels?!	
+Why It Sucks to Be a Male Hyena	
+Invasion Of The Earthworms!	
+Why So Many Meteorites Come From The Same Place	
+What Nuclear Bombs Taught Us About Whales	
+Why Does Wine Make Your Mouth Feel Dry?	
+This Is Not A Bee	
+Why Apple Pie Isn't American	
+Welcome To MinuteEarth	
+Why Most Rain Never Reaches The Ground	
+Why Don't Sled Dogs Ever Get Tired?	
+Why Don’t Sheep Shrink In The Rain?	
+Why Some Molecules Have Evil Twins	
+How Cats Became our Feline Overlords (ft. It's Okay To Be Smart)	
+What Makes A Dinosaur?	
+MinuteEarth Needs Your Support	
+Why Is A Group Of Crows Called A “Murder”?	
+Ambergris: Why Perfume Makers Love Constipated Whales	
+Why Are Snakes So Creepy?	
+Why Did T Rex Have Such Tiny Arms?	
+How Physics Saved Two Million Premature Babies	
+Why Is Poop Brown And Pee Yellow?	
+Should We Grow Human Organs In Pigs?	
+Why Don't Americans Eat Reindeer?	
+These tiny shells know how much ice there is on Earth	
+How Humans Made Malaria So Deadly	
+Why Only Some Monkeys Have Awesome Tails	
+Why Are There So Many Tigers In Texas?	
+Why Do Animals Eat Their Babies?	
+Why Biodiversity Is Good For The Economy	
+How Different Are Different Types of Dogs?	
+Which Parts Of The Brain Do What?	
+The Faint Young Sun Paradox!	
+Why Can't Mules Have Babies?	
+How To (Literally) Save Earth	
+Can Math Explain How Animals Get Their Patterns?	
+Null Island: The Busiest Place That Doesn't Exist	
+Which Bear Is Best?	
+Would You Drink Water Made From Sewage?	
+The Basics Of Digital Illustration	
+Orchids: The Masters Of Lying, Cheating & Stealing	
+How We Make MinuteEarth Videos (Behind the Scenes)	
+Why We Sucked At Counting Fish (Until Now)	
+This Video Has Consumed 149.9 Household-Days of Electricity!	
+The Mystery Of Asparagus Pee	
+Should We Contact Uncontacted Peoples?	
+The Deadliest Ice Age Ever	
+Who Are Flowers Trying To Seduce?	
+How Much Does Meat Actually Cost?	
+How Mushrooms Make It Rain	
+Males vs. Females: Sexual Conflict	
+Which Fish Did We Evolve From?	
+How Many Mass Extinctions Have There Been?	
+DemDebate Secret Video: What The U.S. Promised In Paris	
+America's Energy Future: MinuteEarth At The DemDebate	
+This Is Not A Pine Tree	
+Why Do Rivers Have Deltas?	
+Climate Change: The View From MinuteEarth | #OursToLose	
+Epigenetics: Why Inheritance Is Weirder Than We Thought	
+How To Avoid The Next Atlantis	
+The Real Reason Leaves Change Color In the Fall	
+How Risky Are Vaccines?	
+How Fighting Wildfires Makes Them Worse	
+We're Oversalting Our Food, And It's Not What You Think	
+Why Are There Dangerous Ingredients In Vaccines?	
+Do We Have to Get Old and Die?	
+Is Climate Change Just A Lot Of Hot Air?	
+Are We Really 99% Chimp?	
+How Do Greenhouse Gases Actually Work?	
+Rain's Dirty Little Secret	
+Should We Let Pandas Go Extinct?	
+Why Are There Clouds?	
+Why Don't Scavengers Get Sick?	
+Why do Some Species Thrive in Cities?	
+Tidal Locking | Why Do We Only See One Side of the Moon?	
+This Is Your Brain On Extreme Weather	
+Why Poor Places Are More Diverse	
+Plate Tectonics Explained	
+MinuteEarth Patreon Announcement + Tshirts	
+Why Do We Eat Spoiled Food?	
+Why Do Rivers Curve?	
+How two butterflies became one	
+Five Crazy Bridges for Animals	
+How to Keep Elephants and Wolves Out of Your Yard	
+Why Do We Have More Boys Than Girls?	
+How to Build a Better City	
+Why Do Bats Carry So Many Diseases? (like Coronavirus)	
+Why is it Hot Underground?	
+The Secret Social Life of Plants	
+Invasion of the Yellow Crazy Ants!	
+Ocean Confetti!	
+How To Date A Planet	
+Love Letter to Food	
+Poop Transplants!	
+Are any Animals Truly Monogamous?	
+Where Did Earth's Water Come From?	
+How do Trees Survive Winter?	
+How Your Dog Can Protect You Before You're Born	
+Birds that Hibernate in Lakes?!	
+What Happened To This Car?	
+How to Make a Seashell - Just Add Water!	
+Why is All Sand the Same?	
+How Our Honey is Made (& Subbable announcement)	
+What is Skin For?	
+Which Came First — the Rain or Rainforests?	
+The One That Got Away (Size Matters)	
+The Biggest Organism on Earth	
+How to Survive a Lightning Strike	
+Denizens of the Deep	
+Trash vs. Garbage	
+Garbage Doesn't Lie	
+The Hottest Place on Earth	
+The Great North American Locust Plague	
+Do Fetuses Poop?	
+How the little guy can compete against the big guy	
+Left vs Right	
+Our Atmosphere is Escaping!	
+400 Parts in a Million: The World's Biggest Experiment	
+What is Freezer Burn?	
+The Story of Frozen Food	
+Earth at Day	
+Bedbugs. Seriously!?	
+Why Does Earth Have Deserts?	
+How Tall Can Mountains Be?	
+Why Are Leaves Green? Part 2	
+Why Are Leaves Green? Part 1	
+The Story of Our Planet	
+Screens are NOT the reason kids need glasses	
+The Freshwater Paradox	
+Which is Worse?	
+Why Do Humans Vomit So Much? 
+Why It Sucks to Be a Male Hyena	
+Why Do Bats Carry So Many Diseases? (like Coronavirus)	
+Why Don't Sled Dogs Ever Get Tired?	
+Which Came First — the Rain or Rainforests?	
+Why Hardwoods Are The Softest Woods	
+Is Soil Alive?	
+The Place Where Time Flows Backwards	
+Battle of the Sexes	
+Why Some Fruits Won’t Ripen On Your Counter	
+Animal Winners and Losers	
+Why These Bears “Waste” Food	
+If you have bad artifact luck, watch this to feel better	
+Biology: Digestive System Video	
+Did NATO Really "Betray" Russia?	
+The Best Dragon (According to Science)	
+Milk Is Just Filtered Blood	
+Why The Weather Is Worse At The Mall	
+How To Survive Poison	
+The Cheapest Way To Save A Life	
+Bitcoin mining is a lot like reindeer mating
+Why Do Rivers Curve?	
+How Birds Fooled Military Radar	
+Why The Shortest Day Of The Year Isn't The Coldest	
+After 140 years, this old technology still keeps trains safe	
+The Elie Chainwalk is safe, as long as you follow the signs	
+This town forgot to be a city	
+The top secret plan to explode a nuclear bomb in Yorkshire	
+The giant chainmail box that stops a house dissolving	
+Literally just three minutes where I talk about some rocks	
+How one British laboratory protects the world's chocolate	
+There's a £100,000 coin buried under this London building	
+Ten years ago, I predicted 2022. Did I get it right?	
+The metres-high mountain of mannequins in the Midlands	
+Five YouTubers. Five games. $10,000. ⋮ Money: the full series	
+The hidden background noise that can catch criminals	
+The Thames Barrier must never fail. Here's why it doesn't.	
+The world's most expensive object by weight	
+The town where holding fireworks over your head is a tradition	
+The tunnel where people pay to inhale radioactive gas	
+This tiny railway across the sea has an important job	
+Why this "falling rocks" sign is more important than most	
+An actual, real-world use for robot dogs	
+The highway where trucks work like electric trains	
+The shooting range where you fire over a busy road	
+The world's only float-through McDonalds	
+I thought the Schmid Peoplemover was impossible	
+The world's most useful model railway	
+The public toll road with no speed limit	
+Three strange river crossings	
+Why this observatory fires lasers at satellites	
+I took the world's shortest flight. It was underwhelming.	
+The Islands With Too Much Power	
+I helped cover a 5,000-year-old monument with worn-out tyres	
+How one little boat (and me) held up miles of London traffic at Tower Bridge	
+The diving gondola: a strange elevator to the ocean floor	
+I tried to film a volcano and it was a complete disaster	
+An Unedited, Rain-Soaked Ride on Claughton's Aerial Ropeway	
+The UK's last aerial ropeway uses no power, moves 300 tonnes a day, and will be gone by 2036.	
+How many robots does it take to run a grocery store?	
+The Shocking New Use for Red Telephone Boxes	
+History forgot these old fireworks. We recreated them.	
+Landing at the only airport that's also a public beach	
+The world's last turntable ferry has a really clever design	
+The Accidental Rush for Anthrax Island	
+The Long-Forgotten History of the British Moon Spacesuit	
+I promise this story about microwaves is interesting.	
+The Beach Where Lego Keeps Washing Up	
+Taking The Emergency Exit From A Wind Turbine	
+England's Oldest Attraction Turns Teddy Bears To Stone	
+I asked an AI for video ideas for other YouTubers. It went badly.	
+What Colour Is My Hoodie?	
+It's like a spaceship for sharks.	
+The Difference Between High Explosives and Low Explosives	
+Why Shakespeare Could Never Have Been French	
+Why No-One Will Save Covehithe, The Village That Will Soon Crumble Into The Sea	
+Why Real Explosions Don't Look Like Movie Explosions	
+Why Progress Bars Don't Move Smoothly
+I asked an AI for video ideas, and they were actually good	
+YouTubers have to declare ads. Why doesn't anyone else?	
+Why 18th-Century Firefighters Let Some Buildings Burn	
+Hill Hill Hill Hill, debunked, debunked	
+The Radioactive Beach In New York	
+Trying To Create an AI Tom Scott (on a $100 budget)	
+Australia's Bushfire-Hunting Satellites	
+Trying To Fail A Drug Test On Purpose	
+How Weird Is My Audience? I Polled 15,408 People To Find Out	
+The Greatest Title Sequence I've Ever Seen	
+The Never-Used Road Where The BBC Crash Cars	
+How Many Languages Are There?	
+Walking The Most Dangerous Path In Britain	
+Why The Web Is Such A Mess	
+I Almost Learned To Fly A Jetpack	
+Five Things You Can't Do On British Television	
+The Pumps That Must Run Forever, Or Part Of Germany Floods	
+My Unlicensed Hovercraft Pub Is Technically Legal	
+It’s pronounced GIF.	
+The Theme Park Inside An Old Nuclear Power Plant	
+We Built A Lie-Detector Skeleton From 1927	
+How Binary Search Makes Computers Much, Much Faster	
+The Tiny Monorails That Once Carried James Bond	
+Would You Swim In Power Plant Wastewater?	
+1,204,986 Votes Decided: What Is The Best Thing?	
+DISCONNECTED: The Champion of Champions Grand Final	
+Swimming Between Two Continents, Debunked	
+DISCONNECTED with Vanessa from Braincraft, Kati Morton and Jarvis Johnson	
+Which Is "Bouba", and Which Is "Kiki"?	
+DISCONNECTED with Alec of Technology Connections, Sally Le Page, and Arun from mrwhosetheboss	
+Is The Most Northern Part Of Iceland Still There?	
+DISCONNECTED with Jaiden Animations, Ellen Rose and Hank Green	
+The Part Of Britain That Rises And Falls Twice A Day	
+Why You Should Turn On Two Factor Authentication	
+For 21 Years, No-One In Britain Knew How Long An Inch Was	
+The Village That The Luftwaffe Bombed By Mistake	
+A Million Dollars vs A Billion Dollars, Visualised: A Road Trip	
+The Abandoned Hill With Two Members Of Parliament	
+Why You Can Spot Bad Green Screen	
+I Asked 64,182 People About “Jingle Bells, Batman Smells”. Here's What I Found Out.	
+The World's First Internet Bench	
+How England's Oldest Road Was Nearly Lost Forever	
+The Worst Typo I Ever Made	
+Ə: The Most Common Vowel in English	
+Why Some "Remastered" Music Videos Look Awful	
+Are There Problems That Computers Can't Solve?	
+The Hidden Rules of Conversation	
+Why This British Crossroads Was So Dangerous	
+Why You Can't Name A File CON In Windows	
+Absolutely: Expletive Infixation	
+This Video Has 51,828,726 Views	
+Why Dark Video Is A Terrible Blocky Mess	
+YouTube's Copyright System Isn't Broken. The World's Is.	
+Inside The Billion-Euro Nuclear Reactor That Was Never Switched On	
+Why You Can't Buy Dasani Water in Britain	
+Stopping A Laser Beam In Mid-Air	
+The Country Where All Public Transit Is Free	
+The Sentences Computers Can't Understand, But Humans Can	
+Why The Dutch Headwind Cycling Championships Are Difficult And Amazing	
+Why TRUE + TRUE = 2: Data Types	
+The Bridge That's In Two Countries At The Same Time	
+How To Grow A Martian Salad On Earth	
+How Neurosurgeons Navigate Inside The Brain	
+Why My Teenage Code Was Terrible: Sorting Algorithms and Big O Notation	
+Why 2020 Started On December 30th	
+Why Do We Move Our Hands When We Talk?	
+Why The World's Littlest Skyscraper Was A Massive Scam	
+Why Electronic Voting Is Still A Bad Idea	
+Can The Words You Read Change Your Behaviour?	
+Is The World Running Out Of Helium?	
+The Lift Shaft Was Invented Before The Lift	
+I Almost Learned To Fly In The World's Only Wingsuit Tunnel	
+How The Netherlands Simulated The Sea Before Computers: The Waterloopbos	
+This Video Is Sponsored By VPN	
+The Giant Art That Keeps Planes Quiet	
+Why Helsinki's Library Robots Aren't Important	
+The Self-Driving Race Car	
+Inside The Tunnels That Will Store Nuclear Waste For 100,000 Years	
+What Counts As The World's Shortest River?	
+The Toxic Pit With A $3 Admission Fee	
+The Only Bit Of Louisiana's Coast That Isn't Sinking	
+Cash and Grab (with Bird Keeper Toby and Inés from Draw Curiosity)	
+The Language Sounds That Could Exist, But Don't	
+Checkpoint (with Ashens and the Polybius Heist crew)	
+I'm Not A Robot
+Personal Best (with dodie, Sammy Paul, Daniel J Layton and Reb Day)	
+Flying A Plane With Fireworks On The Wings	
+The Two Generals’ Problem	
+Why “No Problem” Can Seem Rude: Phatic Expressions	
+The Fetch-Execute Cycle: What's Your Computer Actually Doing?	
+How To Stop A Colossal Bridge Corroding	
+why typing like this is sometimes okay.	
+How To Build An App: Everything You Didn't Know You Needed To Know	
+The Giant Underground Tunnels Protecting Tokyo From Floods	
+Why You Can't Trust Me	
+The World's First Solar Powered Train	
+Mr Olds’ Remarkable Elevator	
+The One-Lane Bridge Shared By Cars And Trains	
+What Counts As The Steepest Street In The World?	
+Testing A Zip Line That Goes Round Corners	
+The Circle Visible From Space	
+The First 3D Colour X-Rays	
+The Brain-Eating Amoebas of Kerosene Creek	
+The Hundred-Tonne Robots That Help Keep New Zealand Running	
+The Sculpture That Looks Like A Real-Life Cartoon	
+Where Two Oceans Meet, Debunked	
+I Drove My Childhood Favourite Racing Game In Real Life	
+The Artificial Gravity Lab	
+Blindfold Balancing in the Spinning Space Chair	
+The Library of Rare Colours	
+Keep It or Dump It (with Matthew, who is lovely but not internet famous)	
+The Last Play-For-Cash Fascination Parlour	
+Above Average (with too many people to fit in this title)	
+The Broken Building That Must Not Be Destroyed	
+Weight For It (with Evan Edinger and Luke Cutforth)	
+A Questionable Experiment in Motion Sickness	
+Why Denmark Is .10 Seconds Behind The World	
+How Auto-Tune Works	
+Slowing Down A Stock Exchange With 38 Miles Of Cable	
+I Got To See And Hold My Brain	
+This Is Your Brain On Stale Air	
+How Knot To Hang A Painting	
+The Fishermen That Hold Their Breath For 10 Minutes	
+Why NASA Spun Astronauts Around, But Doesn't Any More	
+The Canyon That Humans Made By Accident	
+Stealing Our Friend's Brain Backup PRANK (GONE WRONG!!!)
+The Consequences of Your Code	
+Your New Social Credit Score	
+The City of Golf Carts	
+The Artificial Intelligence That Deleted A Century	
+The Other Tree That Owns Itself	
+The Sweater Curse and Clothing Controversies: Citation Needed 8x06	
+An American Stonehenge: The Mysterious Georgia Guidestones	
+The Crazy Eights Incident and the Pumpy Thing: Citation Needed 8x05	
+Testing The World's Longest Echo	
+Hail Cannons and Operation Popeye: Citation Needed 8x04	
+Why Computers Can't Count Sometimes	
+Juan Pujol Garcia and Thirtynineitude: Citation Needed 8x03	
+Britain's Largest Battery Is Actually A Lake	
+The Norwegian Butter Crisis and the Ark of Taste: Citation Needed 8x02	
+Why Do London's Manholes Keep Exploding?	
+The Battle of Fishguard and "Brandy": Citation Needed 8x01	
+᚛ᚈᚑᚋ ᚄᚉᚑᚈᚈ᚜ and ᚛ᚑᚌᚐᚋ᚜	
+If Educational Videos Were Filmed Like Music Videos	
+What's The Longest Word You Can Write With Seven-Segment Displays?	
+How The First Ever Telecoms Scam Worked	
+Wingwalking Isn't What It Used To Be, And That's A Good Thing	
+We Made a Banhammer (feat. NerdCubed)	
+The Collapsible Crash Test Robot Car	
+Why You Don't Want To Go Viral	
+The Quiz That Was Shared A Million Times	
+That Time I Got In Trouble With The Government	
+Your Private Messages Might Travel Under This Beach	
+I Hit 3,000-Year-Old Art with a Hammer	
+Testing The Sound Mirrors That Protected Britain	
+The Nuclear Reactor Run By Students	
+How The 90s VHS Look Works	
+Stories I Can't Tell	
+We Should Let Some Wildfires Burn	
+The Drink With A Human Toe In It	
+Watching for Nuclear Attack at the Top of the World	
+Lateral Game 6: The Grand Final	
+The New Highway to the Arctic Ocean	
+Lateral Game 5: The Last Chance	
+Freezing 200,000 Tons of Lethal Arsenic Dust	
+Lateral Game 4: The Fast Route to the Final	
+Tilting an Icy Floor Until You Fall Over: WinterLab	
+Lateral Game 3: the First Elimination Match	
+The Town That Was Burned for Science: Aultsville	
+Lateral: Game 2 with Geoff Marshall, Vicki Pipe, LDShadowLady and Smallishbeans	
+The US-Canada Border Splits This Road Down The Middle	
+Lateral: Game 1 with Kat Arney, Helen Arney, Simon Clark, and Sally Le Page	
+A Town Called Asbestos	
+Keeping Aircraft Safe without Radar: The North Atlantic Tracks	
+How The Black Point Message Crashes Android Apps	
+2½ Hours of Unedited Garlic Bread Flight Footage	
+We Sent Garlic Bread to the Edge of Space, Then Ate It	
+G-Force, Jerk, and Passing Out In A Centrifuge	
+Making an International Standard Cup of Tea	
+The US President's Bulletproof Railcar	
+The 1940s Mermaid Show That's Still Pulling Crowds	
+How Formation Flying Works (feat. the Red Arrows!)	
+Why European Clocks are Running Slow, and British Clocks Aren't	
+The Moiré Effect Lights That Guide Ships Home	
+Launching An Entire Fireworks Display At Once	
+The European City Centre With No Street Names	
+Making Artificial Earthquakes with a Four-Tonne Steel Ball	
+Faceswapping, Unethical Videos, and Future Shock	
+Controlling An Airport From 80 Miles Away	
+Canada's Most Successful King	
+A Language Made Of Music	
+Sign Language Isn't Universal	
+17 Tonnes of Spinning Glass: Making the World's Largest Telescope	
+Atomic Annie and Blue Peacock
+This Video Is 2D And 3D Simultaneously: the Pulfrich Effect	
+John Stonehouse and Dropped Trousers
+The Null Hypothesis	
+The Flip Flap Railroad and Marshmallow Bearings
+How Zero-G Planes Work	
+Turra Coo and Four-Legged Juggling
+Batman's Village of Fools: Gotham, England	
+The Sark Football Team and Hovercraft Enthusiasm
+Why Hold Music Sounds Worse Now	
+Charles Blondin and the Stolen Point
+The German Town That's Literally Breaking Apart	
+Is It Dangerous To Talk To A Camera While Driving?	
+The Lava Lamps That Help Keep The Internet Secure	
+The Story of Salvation Mountain	
+What Is Sea Level, Anyway?	
+Why California's Musical Road Sounds Terrible	
+The Reaction Ferries of Basel: What Have We Missed?	
+The Centuries-Old Debt That's Still Paying Interest	
+Rotary Jails and Accidental Amputations	
+How Computers Compress Text: Huffman Coding and Huffman Trees	
+A Nuclear Waste Dump You Can Walk On: Weldon Spring, Missouri	
+The US Government's $983 Freeze-Dried Urine	
+Inside The Giant American Freezer Filled With Polar Ice	
+What Counts as a Mountain?	
+FizzBuzz: One Simple Interview Question	
+Connectome Scanning: Looking at the Brain's Wiring	
+I Can't Show You How Pink This Pink Is	
+Why Old Screens Make A ᴴᶦᵍʰ ᴾᶦᵗᶜʰᵉᵈ Noise	
+Benjamin Rush and Inventing the Bucket: Citation Needed 6x06	
+Why The Government Shouldn't Break WhatsApp	
+Acoustic Kitty and Bat Bombs: Citation Needed 6x05	
+A Lift That Actually Goes Sideways	
+Julie D'Aubigny and Dueling Scars: Citation Needed 6x04	
+The Runways of Fire That Let WW2 Planes Land In Fog: FIDO	
+The Museum of Failure	
+Stephens Island Wren and the Cobra Effect: Citation Needed 6x03	
+Blocking People in Real Life: Tom Scott at An Evening of Unnecessary Detail	
+The $100 Hamburger and Tach Time: Citation Needed 6x02	
+The Poison Garden of Alnwick	
+Jack Churchill and a Live Studio Audience: Citation Needed 6x01	
+The World's Most Powerful Tidal Current: the Saltstraumen Maelstrom	
+Why The YouTube Algorithm Will Always Be A Mystery	
+How The Arecibo Telescope Could Help Save The World	
+Why Sci-Fi Alien Planets Look The Same: Hollywood's Thirty-Mile Zone	
+How To Not Break A Mars Rover	
+Voyager 1's Getting Closer to Earth Right Now	
+Drones vs Lightning ⚡	
+Why This “Zero Calorie Sweetener” Isn’t Zero Calories	
+Why Song Translations Usually Suck	
+The Foil That Went To The Moon And Back	
+The Disaster That Changed Engineering: The Hyatt Regency Collapse	
+You Can Hear The Difference Between Hot and Cold Water	
+One Town, Four Elements: Ytterby	
+The Beer Pipeline of Bruges	
+Inside YouTube's Mixed Reality VR Lab	
+The World Is Slowly Running Out Of Sand	
+America's First Supermodel: Audrey Munson	
+Elia: The World's Most Frustrating Work of Art	
+ᚼᛒ: Harald Bluetooth and Your Phone	
+Zero-G Experiments on Earth: The Bremen Drop Tower	
+The Little-Known Patterns on British Streets	
+The Confusing Borders of Lake Constance	
+Fallout Shelters and Zurich's Water: Swiss Resilience	
+Why YouTube Streams Don't Count For Christmas № 1	
+Science vs the Weather: Salford's Energy House	
+In Old Movies, Why The Dial Tone After Someone Hangs Up?	
+Wheels, Bombs, and Perpetual Motion Machines	
+The City of the Dead: Colma, California	
+Stopping a Disastrous Plan with Science: the Bay Model	
+Arson as a Christmas Tradition: The Gävle Goat	
+The World's Most Famous Teapot: The Utah Teapot	
+3D Printing Stainless Steel with Giant Robot Arms	
+The Spider Dress That Reacts To Personal Space Invaders	
+The Grave of the Man Who Never Was: Operation Mincemeat	
+The Bizarre Plan to Drain the Mediterranean: Atlantropa	
+The Solar Power Towers of Southern Spain	
+The Zip Line Across Time Zones	
+Classic Trivia Question Cards: Citation Needed Live, The Encore	
+The World's Most Dangerous Path Isn't So Dangerous Any More	
+The Ice Block Expedition and Chainsaw Licenses: Citation Needed LIVE, Part 2	
+Pod Cars of the Past and Future: The Morgantown PRT	
+Ruth Belville and Time Balls: Citation Needed LIVE, Part 1	
+The Town Where Wi-Fi Is Banned: The Green Bank Telescope and the Quiet Zone	
+Cold Wars, Cruise Ships, and the Northwest Passage	
+Internet to the Arctic: A Greenlandic Relay Station	
+No-One Knows Who Got To The North Pole First	
+The Front Falls Off: Glaciers Don't Go Backwards	
+Listening for Nuclear Tests at the Top of the World	
+Seeing Things: Visual Disturbances We All Experience	
+The Fake-British Ghost Town In China: Thames Town	
+Why Mountain Dew Rots Your Teeth More Than Coca-Cola	
+The Battery That's Lasted 176 Years	
+The Problem With Renewable Energy (and how we're fixing it)	
+Hebocon UK: Deliberately Terrible Robot Fighting	
+The Mushroom Cloud Over Britain: RAF Fauld and the Hanbury Crater	
+The Fake Vinegar In British Fish and Chip Shops	
+No, Pokémon Go Can't Read Your Email	
+Camille Flammarion and a Spiritualist Story: Citation Needed 5x05	
+The Scientifically Inaccurate Dinosaurs That Must Stay That Way	
+Camp Bonifas and Yorkshire Scouting: Citation Needed 5x04	
+The Bus Replacement Rail Service (yes, that's the right way round)	
+The Man Who Invented, Then Hated, Shopping Malls	
+BackpackersXpress and the Disco Carriage: Citation Needed 5x03	
+Nobody's Exactly Sure How Much A Kilogram Is Right Now	
+Thomas Midgley Jr and a Pope Infestation: Citation Needed 5x02	
+The Flower That Smells Like Death	
+The Hydraulic Telegraph and Latin Grease: Citation Needed 5x01	
+Why You Can't Advertise Cancer Cures In Britain	
+Why Web Filters Don't Work: Penistone and the Scunthorpe Problem	
+Questionable with Jay Foreman, Sarah Breese and Will Seaward	
+Why Snow and Confetti Ruin YouTube Video Quality	
+The Strangest Elevator In Italy: the Ascensore Castello d'Albertis-Montegalletto, Genoa	
+The Most Dangerous Stretch of Water in the World: The Strid at Bolton Abbey, Yorkshire	
+The Not-Quite-Robots That Help Fix Fusion Reactors	
+Help, My Fusion Reactor's Making A Weird Noise	
+In Norway, Everyone Can Know How Much You Earn	
+Order and Chaos - Hannah Nicklin vs Emma Blackery - Game On 1x06	
+Accidental Emoji Expert: Tom Scott at An Evening of Unnecessary Detail	
+Quiz Buzz - Steven Bridges vs Emma Blackery - Game On 1x05	
+The First Ever Wireless Hack: Marconi vs Maskelyne	
+Weighted War - Steven Bridges vs Hannah Nicklin - Game On 1x04	
+Will YouTube Ever Run Out Of Video IDs?	
+Black Hole - Emma Blackery vs Katie Steckles - Game On 1x03	
+Why You Should Write Down Your Goals	
+Driving Through Russia Without A Visa: The Saatse Boot	
+Tumblin-Dice: Hannah Nicklin vs Katie Steckles - Game On 1x02	
+Unexploded Bombs off the British Coast: the SS Richard Montgomery	
+Rock Paper Scissors Hammer Helmet: Steven Bridges vs Emma Blackery - Game On 1x01	
+Inside A Satellite Clean Room	
+Power, Politics and Pragmatism: The British National Grid	
+Why 1/1/1970 Bricks Your iPhone	
+Victor Lustig and Binary Points: Citation Needed 4x05	
+What Counts as the World's Largest Clock?	
+The Biathlon: Firing Guns Under Pressure	
+Shanghai Fugu and Mucky Fat: Citation Needed 4x04	
+The Second Largest Freezer in Norway	
+How To Make Snow	
+Cello Scrotum and Radium Water: Citation Needed 4x03	
+How "Crash Safari" Reboots Your Phone	
+Why Wuppertal's Suspended Monorail Wasn't The Future Of Travel	
+Project Cybersyn and Military Fridges: Citation Needed 4x02	
+Calling The Police Doesn't Charge Your Phone Battery	
+Graham Island and Ye Starbucks: Citation Needed 4x01	
+Crosswalks Don't Always Make You Safer	
+Why Britain Sucks At Product Placement	
+Seeing Other People's Steam Accounts: The Christmas Caching Catastrophe	
+A Christmas Computer Bug, and the Future of Files	
+Automated Weapons and the Battlefield of 2050	
+Big Industrial Simulators in Finland	
+Drones, Deserts and Danger	
+700 Flavours of Soda Pop: Galco's in Los Angeles	
+How The Rosetta Stone Unlocked Hieroglyphics	
+The Collapsed Dam That Stopped Los Angeles	
+Why I Can't Show You The H******** S***	
+Goalball: Blindfold Paralympic Reverse Dodgeball	
+The Bielefeld Conspiracy	
+The Strange St Pauli Elbtunnel	
+Britain's End-of-the-World Bunkers	
+Simulating a Universe: the EAGLE Project at Durham University	
+Archimedes and a Boat Lift: the Falkirk Wheel	
+The Art of the Bodge: How I Made The Emoji Keyboard	
+The Link That Can Crash Chrome: http://a/%%30%30	
+Real Life Emoji Keyboard!	
+The Man Who Had Himself Taxidermied: Jeremy Bentham	
+Sinking Ship Simulator: The Royal Navy's Damage Repair Instructional Unit	
+The Secret Underground Pipeline Across Britain	
+Amphibious Weed-Cutting Boat!	
+G-Forces, Gliders, and Graveyard Spirals	
+So You've Learned To Teleport	
+The Abandoned Village of Imber: How Far Can Emergency Powers Go?	
+Hovercraft, Concorde, and the Dreams of the 1970s	
+Jimmy Carter's Rabbit and Tinfoil Hats: Citation Needed 3x05	
+The Weirdest Bridge in Wales: The Newport Transporter Bridge	
+The Russian Woodpecker of Chernobyl: How To See Over The Horizon	
+Sidney Weltmer and the Queen's Package: Citation Needed 3x04	
+How to Visit Chernobyl	
+Radioactive Bananas in Chernobyl	
+Containing the Worst Nuclear Disaster in History: Chernobyl's New Confinement Structure	
+Sergeant Reckless and Terry Google: Citation Needed 3x03	
+The World's Largest Indoor Waterpark	
+The Boobrie and Conservative Pandas: Citation Needed 3x02	
+The Giant Cranes and Robots That Keep Civilisation Running	
+The SS Bessemer and Ask Heaves: Citation Needed 3x01	
+Are Batteries Heavier When They're Full? (with Robert Llewellyn!)	
+The Islands Where Guns are Required	
+How To Visit Svalbard	
+The Sundial That Works 24 Hours A Day	
+Why Leap Seconds Cause Glitches	
+What's The Doomsday Seed Vault Really For?	
+The Sightlines of London	
+What Counts as a Word?	
+The Toxic Blue Lagoon of Buxton	
+Long and Short Words: Language Typology	
+Paternoster Lifts: Dangerous, Obsolete and Quite Fun (including over the top!)	
+Why Can't Adults Learn Languages Like Children?	
+The Most Complex Borders in Europe: Why Do We Have Nations?	
+The Effective Power Bug: Why Can Weird Text Crash Your iPhone?	
+Crash Blossoms and Being Drunk: Ambiguity	
+The Fictional Bridges That Became Real	
+The Speed of Outrage: Tom Scott at Thinking Digital 2015	
+Why Computers Suck At Translation	
+How The Netherlands Stopped The Wind	
+Risk, Immortality, and the Terrifying Pulpit Rock	
+Ships, Mines and Magnetism	
+The Human-Powered, Giant Theme Park Playground: Ai Pioppi	
+7 Illegal Things To Do In A British Election	
+The 400,000,000-Year Link Between Scotland and Canada	
+How To Make Something One Atom Thick	
+The Bubble: imagine the web without trolls, or shocks, or spam	
+Turnpikes and Tolls: What if all major roads were private?	
+How to Program a Quantum Computer (sort of)	
+The Driverless Cars of Greenwich	
+Standing in a Hurricane in Slow Motion	
+How Green Screen Worked Before Computers	
+How Many Colours Are In A Rainbow?	
+The Swarm and the Giant Jam Sandwich: Citation Needed 2x07	
+The British Rail Flying Saucer	
+Lisa Clayton and Cake Black Holes: Citation Needed 2x06	
+The Magic Roundabout: Swindon's Terrifying Traffic Circle and Emergent Behaviour	
+The Flitch of Bacon and a Goose on a Train: Citation Needed 2x05	
+The Moonpig Bug: How 3,000,000 Customers' Details Were Exposed	
+Why The Prime Meridian Isn't At 0º	
+A Message from Earth and Flappy Gloves: Citation Needed 2x04	
+Why Doesn't Britain Have Rabies?	
+Can It Be "Too Cold To Snow"?	
+Ley Lines and Avebury Henge, the Better Version of Stonehenge	
+The Centennial Light and Edison the Cheat: Citation Needed 2x03	
+The Hottest Place in Britain, and the BBC Theme Park	
+The Coffin Ray and Hugging a Penguin: Citation Needed 2x02	
+Do The Numbers On Toaster Dials Mean Minutes?	
+The Concrete Pillars On Top Of British Hills: Trig Points	
+Thomas Trueblood and the Ridiculous Marathon: Citation Needed 2x01	
+Why "Four Score and Seven Years Ago"?	
+The Floating Lighthouse in New York: The Lightship Ambrose	
+The Liquid Nitrogen Tanks of New York	
+The Diner Where You Microwaved Your Own Food	
+There's a Bit of England in New York, Literally	
+What Did Witches Actually Use?	
+The Man Who Set Up His Own Toll Road, Without Permission	
+Why Britain Uses Separate Hot and Cold Taps	
+The Shellshock Bug In About Four Minutes	
+How To (Appear To) Snap Someone's Neck (On Stage)	
+Scotland is Rising and England is Sinking, Literally	
+How to Land a Plane in an Emergency	
+2030: Privacy's Dead. What happens next?	
+Ultrasonically Vaporized Vodka!	
+Emojli: Behind the Scenes and Why You Should Never Build An App	
+The Ice Bucket Challenge Lowers Your Heart Rate	
+How To Read Text In Binary	
+Third Person Driving with a Drone	
+YouTube Doesn't Know Your Password	
+Gravity Doesn't Always Point Straight To The Earth's Core	
+Giant Underground Trampolines!	
+What's The Longest Word In The English Language?	
+Some Places Have Lower Gravity Than Others	
+British Plugs Are Better Than All Other Plugs, And Here's Why	
+Emojli: the emoji-only network.	
+Why Do Flag Emoji Count As Two Characters?	
+The Equation of Time: Clocks Vs Sundials	
+How Do You Make Something Last 1,000 Years?	
+How The Self-Retweeting Tweet Worked: Cross-Site Scripting (XSS) and Twitter	
+Fail-Safe vs. Fail-Deadly (with Colin Furze)	
+The Nuclear Reactor In The Middle Of London	
+The Most Ridiculous Game Of Football In History	
+Angels Are Actually Pretty Terrifying	
+The Arctic Winter Games and Dropping the Bomb: Citation Needed 1x09	
+How YouTube Video Stabilization Works	
+How Does Eurovision Break Ties?	
+The Flag of Mars and Rods from God: Citation Needed 1x08	
+The Counts of Andechs and Motorway Service Stations: Citation Needed 1x07	
+The Early Steam Train With No Brakes: Stephenson's Rocket	
+Neckarwestheim and the End of the World: Citation Needed 1x06	
+The Three Types of Twilight, and The Days Without Night	
+Chess Clock Jenga	
+Bossche Bol and Nun's Puffs: Citation Needed 1x05	
+The Rise and Fall of the Gasometer	
+Simplehuman and Russian Toilette: Citation Needed 1x04	
+From Missingno to Heartbleed: Buffer Exploits and Buffer Overflows	
+The Level Crossing You Have To Power Yourself	
+Stefania Follini and a Moon Theremin: Citation Needed 1x03	
+Is "Paris Syndrome" A Real Thing?	
+The Newgate Novel and Condiments on Toast: Citation Needed 1x02	
+Facebook for Oculus Rift: The Commercial	
+Privacy In France: A Lot Of French People Might Be About To Sue Me	
+Point Zero: Where All Roads Start	
+The Big Lobster and Drive-through Booze: Citation Needed 1x01	
+The 19th Century Channel Tunnel Wasn't Just A Dream	
+British Tanks Are Better Than All Other Tanks, And Here's Why	
+The London Railway of the Dead	
+Britain Has 555 Phone Numbers Too	
+Never Call Someone "Tired and Emotional" In England	
+Origami In Space	
+Why Do We Not Have A Cure For The Common Cold Yet?	
+How Does A Geyser Work?	
+Let's Play: Bar Billiards	
+Let's Talk About Names. In Iceland.	
+Moss Is Terrible For Emergency Navigation	
+The Mississippi River Wants To Move	
+Why Was AllAdvantage.com Popular In Beverly Hills?	
+Disney Could Go Nuclear If They Wanted To	
+The SPF Rating On Sunscreen Is Questionable At Best	
+How To Tell If You're Dreaming	
+The Datablast: Experimental Interactive TV From The 1990s	
+How To Fall Into A Swimming Pool	
+Your GPS Shuts Down If It Goes Too Fast	
+The Hard Part About Getting To Orbit Isn't The Height	
+How To Throw A Bucket Of Water At Someone	
+The Image That Can Break Your Brain	
+British Ice Cream Doesn't Have To Contain Milk	
+Einstein Wasn't The First Scientist To Talk About Relativity	
+Why Do Reversing Trucks Not Beep Any More?	
+Why Is London's Cable Car So Damn High?	
+British Nuclear War from Beyond the Grave: The Letter of Last Resort	
+Why Wind Farms Don't Always Turn When It's Windy	
+Can You Cook Bacon Using Hair Curlers?	
+How To (Appear To) Slap Someone Across The Face (On Stage)	
+How To (Appear To) Strangle Someone (On Stage)	
+Single Point of Failure: The (Fictional) Day Google Forgot To Check Passwords	
+Platform 9¾ Is In The Wrong Place	
+A Zeppelin, A Cat, and The World's First In-Flight Radio Message	
+You Can Gold Plate Your Tongue For About $2	
+The Secret Button on Pedestrian Crossings	
+The Thames Still Has Some 19th Century Stink In It	
+Members of Parliament Aren't Allowed To Resign	
+Danger: Humans	
+Why Does Nighttime Smartphone Footage Look All Flickery in Europe?	
+The Underground Roundabouts of Tromsø	
+The 134-Hour Television Show from the Arctic Circle	
+The Secret Pattern That Stops You Copying Bank Notes	
+How To Make An Orange Peel Flamethrower	
+Why Aren't There More Helicopter Crashes In London?	
+There Are Special Crossings For Horses In Britain	
+Making Flaps Vibrate In Your Throat: Voicing	
+Why You Can Tweet More In Japanese: What Counts As A Character?	
+Adjectival Order: Why A "Big Red Balloon", not a "Red Big Balloon"?	
+Why Do We Have "Ye Olde"? Obsolete Letters, and the Mysteries of Ye Olde Ming	
+How Many Gs Do You Pull in an Elevator?	
+Oversight: Thank you for volunteering, citizen.	
+Mele Kalikimaka: Why You Can't Say "Christmas" in Hawaiian	
+Gender Neutral Pronouns: They're Here, Get Used To Them	
+Ghoti and the Ministry of Helth: Spelling Reform	
+There's Nothing Wrong With Saying "10 Items or Less": Descriptivism vs Prescriptivism	
+Why You Swear in Anglo-Saxon and Order Fancy Food in French: Registers	
+Whatever Happened to Tom's Hoodie?: Tom Scott at Thinking Digital 2013	
+All The Colours, Including Grue: How Languages See Colours Differently	
+Fantastic Features We Don't Have In The English Language	
+Why Jonathan Ross Can't Pronounce His Rs	
+Instant Whey	
+Lies on the London Underground	
+A Spaceship Simulator in a Caravan: the LHS Bikeshed	
+Yorkshire Yoga	
+A Brief History of Lyric Videos	
+Ten Illegal Things To Do In London	
+Facebook Graph Search: a more realistic commercial	
+When Facebook Resurrected the Dead	
+Instagram's New Terms of Service: A Statement From The CEO (Parody)	
+If Self-Checkout Machines Used Famous Voices	
+Four Men in a Car: The Technical Difficulties team take a road trip	
+iOS 6 Maps: an explanation from Apple (parody)	
+"Is This You?" - lifelogging, privacy and scandal by Tom Scott at Electromagnetic Field 2012	
+The Large Piña Collider: a pina colada with SCIENCE.	
+Nyan Fax!	
+Welcome to Life: the singularity, ruined by lawyers	
+Google Glasses: A New Way to Hurt Yourself (parody of Google's Project Glass)	
+Robocoaster Challenge: Reciting Shakespeare while attached to a giant robot arm	
+Caution: High Speed Balls - A Ping Pong Ball Launcher for BBC Click	
+The Northern Nocturnal Cracker Consumption Championships	
+Mint Sauce Bottle Rocket: SCIENCE!	
+Kinect-Controlled Tesla Coils: The Evil Genius Simulator	
+Maker Faire UK in 30 Seconds	
+CharityShock - Donate online, give someone an electric shock.	
+Human vs Rat: The Maze Challenge	
+The Technical Difficulties
+The Webcycle: the faster you pedal, the faster your internet goes.	
+Breaking the News: Tom Scott and Matt Gray bonehead the budget	
+Thinking Digital 2009: Tom Scott on graphs, Hans Zimmer, Eurovision and tea cosies	
+Captain Obvious	
+Two Drums and a Cymbal Fall off a Cliff	
+The Fire Jugglers of York	
+The 30 Second Bacon Sandwich	
+Appalling Visual Puns
+The Matt Gray High Five Face Off	
+Washing Machine Cookery		
+Timelapse: 1,000 Balloons in 6 Hours	
+Tesco Value Spiderman	
+You Cannot Remove Your Fingerprints With Pineapple		
+Salmon in a Dishwasher	
+The Coruscant Juggling Club	
+On A Pirate Ship - Jay Foreman feat. Mad Cap'n Tom	
+Fun With A Giant Slingshot	
+Pastaaargh: pasta, cooked with a kettle	
+Extra Light Pancakes	
+Breakfast: Fortified With Iron	
+The Metaverse: A Guide to the Future of Capitalism	
+Veritasium: A Story of YouTube Propaganda	
+Logan Paul: A Boxing Redemption Story	
+How Countries Were Invented	
+Jordan Peterson doesn’t understand George Orwell	
+Johnny Harris: A Story of YouTube Propaganda	
+CANCEL CULTURE: Who's Afraid of the Online Mob?	
+Taxing the Rich is Good, Actually #Shorts	
+SH!TPOSTING: The Art of the Internet	
+A Brief History of the Culture Wars	
+The Myth of a Free Press: Media Bias Explained	
+The Fake Futurism of Elon Musk	
+How to Spot a (Potential) Fasc!st	
+Whiteness: WTF? White Privilege and the Invisible Race	
+The Neoliberal Economics of Animal Crossing	
+How the "War on Terror" shaped Harry Potter	
+Psychoanalysis: WTF? Sigmund Freud and the Oedipus Complex Explained
+Why is Academic Writing so Boring?	
+The Weird British-American Setting of Sex Education (Netflix)	
+The Frankfurt School: From a Failed Revolution to Critical Theory
+Little Women (2019): How (and why) Greta Gerwig changed the ending
+The Gig Economy: WTF? Precarity and Work under Neoliberalism
+30,000 Subs Q&A
+Poststructuralism: WTF? Derrida, Deconstruction and Poststructuralist Theory Explained	
+Donald Trump and the Society of the Spectacle
+Should We Abolish Copyright?
+Neoliberalism: From Ronald Reagan to the Gig Economy
+Millennial Socialism and Centrist Dads: Political discourse after neoliberalism
+Structuralism and Semiotics: WTF? Saussure, Lévi-Strauss, Barthes and Structuralism Explained	
+Catch 22 by Joseph Heller
+How Black Mirror: Striking Vipers Subverts Gender and Sexuality
+Foucault: WTF? An Introduction to Foucault, Power and Knowledge	
+(Almost) 15,000 Subs Q&A
+Society of the Spectacle (Part 2): WTF? Recuperation and Capitalist Realism
+James Joyce's Ulysses
+The Death of the Author: WTF? Roland Barthes' Death of the Author Explained
+The Good Place: Ethics and Class in the Afterlife
+Reading Classic Books for Beginners	
+Society of the Spectacle: WTF? Guy Debord, Situationism and the Spectacle Explained
+The Poetics: WTF? Aristotle’s Poetics, Greek Tragedy and Catharsis	
+How Black Mirror: Bandersnatch Plays With Narrative
+How to write an Abstract
+Cultural Materialism: WTF? Raymond Williams, Culture and Structures of Feeling	
+Postcolonialism: WTF? An Intro to Postcolonial Theory	
+Top 5 Apps for PhD Students
+How BoJack Horseman Critiques the 1990s
+Colonialism: WTF? Introduction to colonialism and imperialism	
+Using "Deep Work" to improve PhD productivity
+How Unbreakable Kimmy Schmidt deconstructs the Millennial myth
+Marxist Literary Criticism: WTF? An Introduction to Marxism and Culture	
+Postmodernism: WTF? An introduction to Postmodernist Theory
+Hamlet: Staging Shakespeare for a Modern Audience
+Modernism: WTF? An introduction to Modernism in art and literature	
+UK Lecturers Strike
+Phenomenology: WTF? Time and Phenomenology explained!	
+How to find citations and references for essay bibliography
+Literary Texts: WTF? Introduction to Cultural Texts and Roland Barthes' From Work to Text	
+Improve Your Essay Paragraph Structure
+Semiotics: WTF? Introduction to Saussure, the Signifier and Signified	
+Preparing for my PhD Upgrade Process and My New Play Performed
+Social Class: WTF? Introduction to Bourdieu and Marx on class	
+Understanding complex theories in the Humanities
+Dramaturgy: WTF? An introduction to Dramaturgy and the Theatre Dramaturg	
+5 Books for Theatre Students and Theatre Nerds: Get Ahead in Theatre Class
+Library Porn and Understanding Theory
+On Writing Plays and Writing Scripts
+Failing to understand de Certeau...
+Some academic books are weird...
+Day in the life of a PhD Student: Monday
+Writing a Research Proposal
+Hegemony: WTF? An introduction to Gramsci and cultural hegemony	
+How to start an essay with a hook
+How Plays Work: Angels in America by Tony Kushner	
+Megamusicals WTF? The art and economics of Hamilton and Les Mis	
+Postdramatic Theatre and Postmodern Theatre: WTF? An introduction to Hans Theis Lehmann	
+What is Interdisciplinary Research?
+The Hypocrite by Richard Bean at Royal Shakespeare Theatre (Hull Truck & RSC)
+How Plays Work: Blasted by Sarah Kane	
+6 Months as a PhD Student and 6 Lessons Learned
+How Plays Work: An Enemy of the People by Henrik Ibsen	
+How to use Google Scholar to find journal articles
+A week as a PhD Student
+How Plays Work: All My Sons by Arthur Miller	
+How to Read, Take Notes On and Understand Journal Articles
+The Metaverse: A Guide to the Future of Capitalism	
+Veritasium: A Story of YouTube Propaganda	
+Johnny Harris: A Story of YouTube Propaganda	
+The Fake Futurism of Elon Musk	
+Jordan Peterson doesn’t understand George Orwell	
+Kid SNEAKS CANDY Into The MOVIES ft. @Cole LaBrant
+China Entry in Russia vs Ukraine Explained
+DEVASTATING CAREER THREATENING INJURY.	
+Why I Hate Elon Musk	
+CANCEL CULTURE: Who's Afraid of the Online Mob?	
+How to Read, Take Notes On and Understand Journal Articles
+How to Spot a (Potential) Fasc!st	
+Postmodernism: WTF? An introduction to Postmodernist Theory
+How Countries Were Invented	
+Millennial Socialism and Centrist Dads: Political discourse after neoliberalism
+Why Indian Army twice rejected TN engineer who has now picked up arms for Ukraine	
+Did NATO Really "Betray" Russia?	
+NATO rejects Biden's plan to give fighter jets to Ukraine
+Logan Paul: A Boxing Redemption Story	
+Psychoanalysis: WTF? Sigmund Freud and the Oedipus Complex Explained
+Should We Abolish Copyright?
+Day in the life of a PhD Student: Monday
+A Brief History of the Culture Wars	
+The Gig Economy: WTF? Precarity and Work under Neoliberalism
+Marxist Literary Criticism: WTF? An Introduction to Marxism and Culture	
+Foucault: WTF? An Introduction to Foucault, Power and Knowledge	
+SH!TPOSTING: The Art of the Internet	We're Building Computers Wrong	
+The Most Powerful Computers You've Never Heard Of	
+The Snowflake Mystery	
+Most People Don't Know How Bikes Work	
+The Big Misconception About Electricity	
+How Imaginary Numbers Were Invented	
+I Rented A Helicopter To Settle A Physics Debate	
+This Robot Walks, Flies, Skateboards, Slacklines	
+How They Caught The Golden State Killer	
+How Hidden Technology Transformed Bowling	
+Why All Scorpions Are Fluorescent	
+The Universe is Hostile to Computers	
+Clickbait is Unreasonably Effective	
+The Genius of 3D Printed Rockets	
+The Simplest Math Problem No One Can Solve - Collatz Conjecture	
+Why You Should Want Driverless Cars On Roads Now	
+How a slinky falls in slow motion #shorts	
+The Biggest Myth In Education	
+A Physics Prof Bet Me $10,000 I'm Wrong	
+The Longest-Running Evolution Experiment	
+Risking My Life To Settle A Physics Debate	
+Math's Fundamental Flaw	
+How An Infinite Hotel Ran Out Of Room	
+This Unstoppable Robot Could Save Your Life	
+The Surprising Secret of Synchronization	
+This is why we can't have nice things	
+The Discovery That Transformed Pi	
+Why Robots That Bend Are Better	
+I Asked Bill Gates What's The Next Crisis?	
+These Pools Help Support Half The People On Earth	
+Q&A + Giveaway for 10 Years on YouTube	
+The Illusion Only Some People Can See	
+These are the asteroids to worry about	
+Why No One Has Measured The Speed Of Light	
+What Actually Expands In An Expanding Universe?	
+How One Supernova Measured The Universe	
+Why Gravity is NOT a Force	
+The Infinite Pattern That Never Repeats	
+How Kodak Exposed The Atomic Bomb	
+Is Success Luck or Hard Work?	
+Is Dust Mostly Dead Skin?	
+Half the universe was missing... until now	
+The Launch of Perseverance to Mars	
+Turbulent Flow is MORE Awesome Than Laminar Flow	
+Parallel Worlds Probably Exist. Here’s Why	
+This equation will change how you see the world (the logistic map)	
+Why New Years Resolutions Fail & How To Succeed	
+How to Slow Aging (and even reverse it)	
+Chaos: The Science of the Butterfly Effect	
+3 Perplexing Physics Problems	
+Why Trees Are Out to Get You	
+Engineering with Origami	
+The Bizarre Behavior of Rotating Bodies	
+Does Planet 9 Exist?	
+Flamethrower vs Aerogel	
+Making Liquid Nitrogen From Scratch!	
+Mars Helicopter (before it went to Mars)	
+Why the Future of Cars is Electric	
+Why Apollo Astronauts Trained in Nuclear Bomb Craters	
+How Cod Saved the Vikings	
+I Waterproofed Myself With Aerogel!	
+Can You Swim in Shade Balls?	
+World's Lightest Solid!	
+My Video Went Viral. Here's Why	
+Why Are 96,000,000 Black Balls on This Reservoir?	
+Magnetic Micro-Robots	
+Three Awesome High School Science Projects	
+First Image of a Black Hole!	
+How to Understand the Black Hole Image	
+How Was Video Invented?	
+Can Humans Sense Magnetic Fields?	
+Why Machines That Bend Are Better	
+Can You Recover Sound From Images?	
+Microwaving Grapes Makes Plasma	
+Do Salt Lamps Work?	
+The Inverse Leidenfrost Effect	
+Spinning Black Holes	
+The Best Test of General Relativity (by 2 Misplaced Satellites)	
+How Ultrasound Can Deactivate Parts of the Brain	
+Five Firsts for Mars InSight	
+The kg is dead, long live the kg	
+Drinking in ZERO-G! (and other challenges of a trip to Mars)	
+What Actually Causes Dandruff?	
+Why Boredom is Good For You	
+This Toy Can Open Any Garage	
+How UV Causes Cancer and Aging	
+Is Our Food Becoming Less Nutritious?	
+Can You Overdose on Vitamins?	
+The World in UV	
+Spinning Sphere of Molten Sodium	
+My Life Story	
+Why Einstein Thought Nuclear Weapons Impossible	
+The Threat of AI Weapons	
+Why Mosquitoes Bite Some People More Than Others	
+This Particle Breaks Time Symmetry	
+World's First Car!	
+Your Body's Molecular Machines	
+Neutron Star Merger Gravitational Waves and Gamma Rays	
+Schlieren Imaging in Color!	
+Total Solar Eclipse (2017)	
+How We're Redefining the kg	
+Hydrodynamic Levitation!	
+How To See Air Currents	
+Sandwich Bag Fire Starter	
+NEW Gravitational Wave Discovery!	
+World's Heaviest Weight	
+Mars 2020: Nasa's Next Mission To Mars	
+Is America Actually Metric?	
+Fire in ZERO-G!!	
+The Sun Sneeze Gene	
+4 Revolutionary Riddles Resolved!	
+4 Revolutionary Riddles	
+How To Update Your Beliefs Systematically - Bayes’ Theorem	
+Does Water Swirl the Other Way in the Southern Hemisphere?	
+The Science of Thinking	
+3 Sources of Water on the Moon	
+Electromagnetic Levitation Quadcopter	
+The Real Moral Dilemma of Self-Driving Cars	
+The Absurdity of Detecting Gravitational Waves	
+Post-Truth: Why Facts Don't Matter Anymore	
+Indestructible Coating?!	
+What the Fahrenheit?!	
+Is This What Quantum Mechanics Looks Like?	
+Why Metals Spontaneously Fuse Together In Space	
+How the Quantum Vacuum Gave Rise to Galaxies	
+The Best and Worst Prediction in Science	
+Is Most Published Research Wrong?	
+The Illusion of Truth	
+Stringless Yo-Yo!	
+Celsius Made His Thermometer Upside Down	
+Inside the Svalbard Seed Vault	
+Svalbard - The Northernmost Town on Earth	
+Science of Laser Hair Removal in SLOW MOTION	
+Why Anecdotes Trump Data	
+These Liquids Look Alive!	
+What Exactly is the Present?	
+Why Life Seems to Speed Up as We Age	
+How Long Will You Live?	
+Snatoms! The Magnetic Molecular Modeling Kit	
+The Brightest Part of a Shadow is in the Middle	
+Is Glass a Liquid?	
+The Science of Six Degrees of Separation	
+Our Greatest Delusion	
+Evolutionarily Stable Strategies ft. Richard Dawkins	
+How to Launch a Nuclear Missile	
+Backspin Basketball Flies Off Dam	
+Should This Lake Exist?	
+Chernobyl - What It's Like Today	
+Uranium: Twisting the Dragon's Tail	
+The Truth About Toilet Swirl - Southern Hemisphere	
+Ice Spikes Explained	
+Extended: Beaker Ball Balance Problem	
+What I Wish I Knew When I Was Younger	
+Explained: Beaker Ball Balance Problem	
+Beaker Ball Balance Problem	
+How Do Chameleons Change Color?	
+An Affordable 3D-Printed Arm	
+An Astronaut's View of Earth	
+Do Cell Phones Cause Brain Tumors?	
+Quantum Entanglement & Spooky Action at a Distance	
+Would You Take This Bet?	
+The Most Radioactive Places on Earth	
+The Most Persistent Myth	
+How Were the Pyramids Built?	
+Sparks from Falling Water: Kelvin's Thunderstorm	
+CapitolTV's DISTRICT VOICES - District 5: Electric Sparks From Falling Water	
+13 Misconceptions About Global Warming	
+Climate Change is Boring	
+Explained: 5 Fun Physics Phenomena	
+5 Fun Physics Phenomena	
+What is NOT Random?	
+How Much Information?	
+Why Women Are Stripey	
+Misconceptions About the Universe	
+Buoyancy Quiz	
+Musical Fire Table!	
+Why Trees Are Taller Than They Need To Be	
+Gravitational Wave Discovery! Evidence of Cosmic Inflation	
+Anti-Gravity Wheel Explained	
+Anti-Gravity Wheel?	
+The Most Common Cognitive Bias	
+Can Silence Actually Drive You Crazy?	
+Facebook Fraud	
+Will This Go Faster Than Light?	
+We Tagged a Great White Shark!	
+Bullet Block Experiment Result	
+How We’re Fooled By Statistics	
+How a Shark Attack Survivor Invented Cage Diving	
+10 Facts About Great White Sharks	
+How Special Relativity Makes Magnets Work	
+Bullet Block Explained!	
+The Bullet Block Experiment Everyone Gets Wrong	
+Slow-Mo Non-Newtonian Fluid on a Speaker	
+How To Make a Quantum Bit	
+How Does a Transistor Work?	
+Can We Really Touch Anything?	
+How Does a Quantum Computer Work?	
+Do Aliens Exist?	
+Why the Sky ISN'T Blue	
+Your Mass is NOT From the Higgs Boson	
+Empty Space is NOT Empty	
+The Science of Jetpacks and Rockets!	
+Epic Slow-Mo Drum Implosions!	
+World's Roundest Object!	
+Single Photon Interference	
+What Can Frogs See That We Can't?	
+The Original Double Slit Experiment	
+Veritasium Trailer	
+Why Do Venomous Animals Live In Warm Climates?	
+How To Make Colour With Holes	
+Heisenberg's Uncertainty Principle Explained	
+What Could Survive An Atomic Bomb?	
+Paralysed Rats Made To Walk Again	
+How To Clean Up Space Junk	
+Corn Flour Fireball	
+World's First Electric Generator	
+How Trees Bend the Laws of Physics	
+What Now For The Higgs Boson?	
+Levitating Barbecue! Electromagnetic Induction	
+Misconceptions About Falling Objects	
+Making SOLID Nitrogen!	
+What's In A Candle Flame?	
+How Can Trees Be Taller Than 10m?	
+Misconceptions About Temperature	
+How Does A Boomerang Work?	
+What's The Best High Jump Technique?	
+How Does A Sailboat Actually Work?	
+How Does A Wing Actually Work?	
+Veritasium & Team Record Gold Invade London	
+Atomic Bonding Song	
+Free Higgs!	
+Northern Lights From 100,000 ft!	
+Does a Falling Slinky Defy Gravity?	
+Transit of Venus! Sydney 2012 Contacts, Contracts and Parallax	
+Spinning Disk Trick Solution	
+How Does A Slinky Fall?	
+Gyroscopic Precession	
+Spinning Disk Trick	
+Why Are Astronauts Weightless?	
+Where Does The Sun Get Its Energy?	
+What Causes The Northern Lights?	
+Destination: Alaska	
+Why Do You Make People Look Stupid?	
+Where Do Trees Get Their Mass?	
+Spinning Tube Trick Answer	
+Spool Trick	
+Spinning Tube Trick Explained	
+Spinning Tube Trick	
+Are You Lightest In The Morning?	
+World's Longest Straw	
+The Science of Curveballs	
+Koala Encounters	
+What Is The Coastline Paradox?	
+Candle Trick	
+How To Make Graphene	
+What Causes The Phases Of The Moon?	
+A Human Being Is A Part Of The Whole	
+What Is The Magnus Force?	
+Atomic Rant	
+Can You Go the Speed of Light?	
+Physics Nobel Prize 2011 - Brian Schmidt	
+Nobel Prize Winner Brian Schmidt - Physics 2011	
+Supersized Slow-Mo Slinky Drop	
+Make Plasma With Grapes In The Microwave!	
+Slinky Drop	
+Slinky Drop Answer	
+Slinky Drop Extended	
+States of Matter	
+Imploding Drum	
+What Colour Is Most Attractive?	
+Chain Drop Answer 2	
+Chain Drop Experiment	
+Impress Her With Nanodiamonds	
+What Is Water Made Of?	
+What Is Chemistry?	
+Ice Cutting Experiment	
+Ice Cutting Experiment	
+Does Pressure Melt Ice?	
+Why Is Ice Slippery?	
+How Does The Earth Spin?	
+Why Does The Earth Spin?	
+Persistence Of Vision	
+Fire Syringe	
+Misconceptions About Heat	
+Can You Solve This Shadow Illusion?	
+Can You Perceive Acceleration?	
+When Is A Bungee Jumper's Acceleration Max?	
+Veritasium Bungee Jumps!	
+Where Did The Earth Come From?	
+How Old Is The Earth?	
+What Is Electricity? (Are You Gonna Be My Girl?)	
+Types of Radiation	
+Sound + Fire = Rubens' Tube	
+Radiation vs Radioactive Atoms	
+Galileo the Scientific Parrot	
+What Powers Australia?	
+How Damaging is Radiation?	
+Supercooled Water - Explained!	
+What Are Atoms and Isotopes?	
+Khan Academy and the Effectiveness of Science Videos	
+Experiments A Cappella	
+Three Incorrect Laws of Motion	
+Is There Gravity In Space?	
+Misconceptions About Falling Objects	
+Which Hits The Ground First?	
+Calculating Gravitational Attraction	
+Best Film on Newton's Third Law. Ever.	
+What Is Gravity?	
+Why Does the Moon Orbit Earth?	
+What Forces Are Acting On You?	
+What is a Force?	
+How Far Away is the Moon? (The Scale of the Universe)	
+Gravity (Scientific Version of John Mayer's Gravity)	
+Egg Experiment to Demonstrate Inertia	
+The Difference Between Mass and Weight	
+Scientific Notation - Example	
+I'm Atoms (Scientific Cover of Jason Mraz's I'm Yours)	
+Scientific Notation - Explained!	
+Cathode Rays Lead to Thomson's Model of the Atom	
+Thomson's Plum Pudding Model of the Atom	
+Atomic Theory	
+What causes the seasons?	
+How long does it take for the earth to go around the sun?	
+We're Building Computers Wrong	
+The Most Powerful Computers You've Never Heard Of	
+The Big Misconception About Electricity	
+How Imaginary Numbers Were Invented	
+The Snowflake Mystery	
+So sorry. I was wrong... (Ukraine Russia War)	
+15 Old Technologies Scientists Still Can't Explain	
+Why Einstein Thought Nuclear Weapons Impossible	
+How Was Video Invented?	
+How Hidden Technology Transformed Bowling	
+I Rented A Helicopter To Settle A Physics Debate	
+Most People Don't Know How Bikes Work	
+How They Caught The Golden State Killer	
+How An Infinite Hotel Ran Out Of Room	
+The Universe is Hostile to Computers	
+If you have bad artifact luck, watch this to feel better	
+Did NATO Really "Betray" Russia?	
+This Video is not in Reverse.	
+Veritasium: A Story of YouTube Propaganda	
+Is Success Luck or Hard Work?	
+How Were the Pyramids Built?	
+World's Lightest Solid!	
+The Simplest Math Problem No One Can Solve - Collatz Conjecture	
+Parallel Worlds Probably Exist. Here’s Why	
+Math's Fundamental Flaw	
+How Wrong Is VERITASIUM? A Lamp and Power Line Story	
+These Pools Help Support Half The People On Earth
